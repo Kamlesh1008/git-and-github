@@ -1,2 +1,4 @@
 # git-and-github
-authhoe - kamlesh chaudhary
+author - kamlesh chaudhary
+kya hall hai
+
